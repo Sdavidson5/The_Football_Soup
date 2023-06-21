@@ -1,0 +1,22 @@
+#logo{
+    width: 100px;
+    border-radius:10px;
+    object-fit: cover;
+    height: auto;
+}
+
+.title{
+    font-weight: bold;
+}
+.menu_header{
+    color: white;
+}
+.menu_buttons{
+    background-color: orange;
+    color:white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+

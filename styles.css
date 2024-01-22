@@ -11,6 +11,7 @@
 .menu_header{
     background-color: forestgreen;
     border-radius: 5px;
+
 }
 .menu_buttons{
     background-color: orange;
@@ -19,5 +20,6 @@
     border-radius: 5px;
     font-weight: bold;
     text-align: center;
+    margin: auto;
 }
 
